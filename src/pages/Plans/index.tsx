@@ -3,13 +3,16 @@ import React from 'react';
 import { FiCheck } from 'react-icons/fi';
 import {
   Container,
-  Content,
   Header,
   HeaderContent,
   Banner,
   BannerContent,
   BannerText,
   Wave,
+  Content,
+  Carrousel,
+  Card,
+  Conditions,
 } from './styles';
 
 import logoImg from '../../assets/hostgator-logo.svg';
@@ -55,9 +58,20 @@ const SignIn: React.FC = () => {
         </Wave>
       </Banner>
       <Content>
-        {
-          // page content
-        }
+        <Carrousel>
+          <Card>
+            <span>alou</span>
+          </Card>
+          <Card>
+            <span>alou</span>
+          </Card>
+          <Card>
+            <span>alou</span>
+          </Card>
+        </Carrousel>
+        <Conditions>
+          <a href="http://google.com">*Confira as condições da promoção</a>
+        </Conditions>
       </Content>
     </Container>
   );

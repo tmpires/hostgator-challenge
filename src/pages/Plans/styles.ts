@@ -55,6 +55,8 @@ export const BannerText = styled.div`
     color: #ffffff;
     font-size: 30px;
     font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 30px;
   }
 
   svg {
@@ -81,9 +83,48 @@ export const Wave = styled.div`
 export const Content = styled.div`
   display: flex;
   flex-direction: column;
-  place-content: center;
   align-items: center;
+  justify-content: center;
 
   width: 100%;
-  max-width: 700px;
+`;
+
+export const Carrousel = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  max-width: 1011px;
+`;
+
+export const Card = styled.div`
+  background: #fff;
+  height: 650px;
+  width: 100%;
+  max-width: 331px;
+
+  margin: 5px;
+
+  border: 1px solid #dfecff;
+  border-radius: 4px;
+`;
+
+export const Conditions = styled.div`
+  padding: 8px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+
+  width: 100%;
+  max-width: 1011px;
+
+  margin: 9px;
+
+  letter-spacing: 0px;
+  color: #4480c5;
+  opacity: 0.7;
+  font-size: 12px;
 `;
