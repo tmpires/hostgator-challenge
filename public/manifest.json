@@ -1,0 +1,25 @@
+{
+  "short_name": "HostGator",
+  "name": "HostGator Challenge",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "favicon-32px32.png",
+      "type": "image/png",
+      "sizes": "32px32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1D5297",
+  "background_color": "#F1F6FB"
+}
