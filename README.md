@@ -35,4 +35,4 @@ yarn
 yarn start
 ```
 
-Now you can access the website via this link: localhost:3000/
+Now you can access the website via this link: http://localhost:3000/
