@@ -32,5 +32,7 @@ yarn
 4. On the same terminal, after the dependencies have been installed, run this command to open the website.
 
 ```
-yarn
+yarn start
 ```
+
+Now you can access the website via this link: localhost:3000/
