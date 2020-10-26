@@ -12,8 +12,6 @@
 
 ## About the challenge
 
-Nesse desafio, foi pedido criar uma página para visualizar os preços e planos da HostGator. Foi seguido o seguinte . Era para ela consumir essa [API](https://6dd1804f-a914-4c99-a1ed-58adca2bca74.mock.pstmn.io/prices), porém ela se encontra indisponivel.
-
 In this challenge, the goal was to create a page to view the prices and names of HostGator's plans. The following [layout](https://xd.adobe.com/spec/31631e0c-bd84-4a01-5f67-27878b4deffa-4752/) was used. This [API](https://6dd1804f-a914-4c99-a1ed-58adca2bca74.mock.pstmn.io/prices) was supposed to be used, but it is currently unavailable. 
  
 ### Requirements and Instalation
